@@ -546,6 +546,8 @@ Control Plane.
 
 <details>
 <summary>What is link aggregation? Why is it used?</summary><br><b>
+	
+An aggregation of two or more network interfaces, each with their own link and MAC address, which are combined and addressesed as a single virtual interface. This typically requires software support on the host, and may include firmware support on the layer 2 side. Link aggregation is typically used for the purposes of increased bandwidth and/or link redundancy.
 </b></details>
 
 <details>
@@ -823,6 +825,8 @@ True
 
 <details>
 <summary>What is POSIX?</summary><br><b>
+	
+An application programming interface (API) defined by the IEEE, or a set of standards that define interfaces for common operating system operations in an effort to maintain application compatibility between operating systems. 
 </b></details>
 
 <details>
